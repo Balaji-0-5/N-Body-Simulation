@@ -3,11 +3,11 @@
 This is a code repository for a basic N-Body simulation. It is written in Python and utilizes the Leapfrog integration method.
 Requirements
 
--Python 3.6+
--Matplotlib
--Numpy
--Numba
--Json
+- Python 3.6+
+- Matplotlib
+- Numpy
+- Numba
+- Json
     
 Usage
 
