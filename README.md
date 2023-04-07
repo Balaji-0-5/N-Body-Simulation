@@ -11,7 +11,7 @@ Requirements
     
 ## Function Description
 
-'Run_sim(N_steps, pos_arr, mom_arr, mass_arr, start=0, dt=1.e-2, G=6.67408e-11, epsilon=0.01)'
+ 'Run_sim(N_steps, pos_arr, mom_arr, mass_arr, start=0, dt=1.e-2, G=6.67408e-11, epsilon=0.01)'
 
 This function runs the simulation and returns the following:
     'pos_arr':  An array containing the positions of the particles after the simulation.
