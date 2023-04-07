@@ -9,13 +9,11 @@ Requirements
 - Numba
 - Json
     
-Usage
+## Usage
 
-To run the simulation, execute the Run_sim function file in the terminal:
+To run the simulation, execute the Run_sim function in the jupyter notebook :
 
-css
-
-python main.py
+    python main.py
 
 The simulation parameters (such as number of particles, time step, and total time) can be adjusted in the config.py file.
 
