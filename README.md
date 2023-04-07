@@ -58,3 +58,5 @@ This function runs the simulation and returns the following:
 * The data from the runs were collected and animated into a video. 
 * The video runs at a rate of 1 Myr per sec. 
 * The video can befound [here](https://www.youtube.com/watch?v=hIO0DGP90Xg) 
+
+![Picture](https://github.com/Balaji-0-5/N-Body-Simulation/blob/2b6c24e8f6ed32e05a8b30d1469919be34b4f2f7/Project/inital_distribution.png)
