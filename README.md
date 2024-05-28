@@ -60,3 +60,6 @@ This function runs the simulation and returns the following:
 * The video can befound [here](https://www.youtube.com/watch?v=hIO0DGP90Xg) 
 
 ![Picture](https://github.com/Balaji-0-5/N-Body-Simulation/blob/360c513accb6df68e839c8c7968f62e94aea894c/Project/Initial_config.png)
+
+## License
+This project is licensed under the terms of the MIT License.
